@@ -1,0 +1,28 @@
+[
+{
+    "id": 1,
+    "task": "Complete Joars Nightmare",
+    "date": "2022-04-13",
+    "complete": true
+},
+{
+    "id": 2,
+    "task": "Complete To Do List",
+    "date": "2022-04-17",
+    "complete": true
+},
+{
+    "id": 3,
+    "task": "Example past task",
+    "date": "2021-02-14",
+    "complete": false
+},
+{
+    "id": 4,
+    "task": "Example future task",
+    "date": "2022-05-13",
+    "complete": false
+}
+
+]
+ 
